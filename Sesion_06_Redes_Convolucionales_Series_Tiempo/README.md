@@ -13,3 +13,22 @@ Esta sesión cubre el uso de redes neuronales convolucionales (CNN) para el aná
 - CNN-LSTM y modelos híbridos
 - WaveNet y arquitecturas dilated
 - Comparación de arquitecturas y aplicaciones
+
+## Subtemas
+6.1. **Crear las Secuencias**
+   - Preparación de secuencias para CNN
+   - Estructuración de datos de entrada
+   - Ventanas deslizantes para convoluciones
+   - Formato de datos para capas convolucionales
+
+6.2. **Escalar Datos**
+   - Normalización para redes convolucionales
+   - Técnicas de escalado (MinMaxScaler, StandardScaler)
+   - Preservación de información temporal
+   - Aplicación consistente en train y test
+
+6.3. **Crear el Modelo**
+   - Diseño de arquitectura CNN 1D
+   - Configuración de capas convolucionales
+   - Pooling y flatten layers
+   - Compilación y entrenamiento del modelo CNN

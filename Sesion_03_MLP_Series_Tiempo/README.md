@@ -13,3 +13,10 @@ Esta sesión introduce el uso de redes neuronales Perceptrón Multicapa (MLP) pa
 - Preparación de datos para MLP
 - Entrenamiento y validación
 - Ventanas deslizantes para series temporales
+
+## Subtemas
+3.1. **EDA (Exploratory Data Analysis)**
+   - Análisis exploratorio de datos para redes neuronales
+   - Identificación de características relevantes
+   - Visualización de patrones temporales
+   - Estadísticas y distribuciones de la serie

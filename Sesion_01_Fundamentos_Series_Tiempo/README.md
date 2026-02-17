@@ -12,3 +12,14 @@ Esta sesión cubre los conceptos fundamentales de series de tiempo, incluyendo c
 - Componentes de series temporales
 - Estacionariedad y transformaciones
 - Análisis exploratorio de series de tiempo
+
+## Subtemas
+1.1. **Análisis Exploratorio de la Serie**
+   - Visualización de la serie temporal
+   - Estadísticas descriptivas
+   - Identificación de patrones y tendencias
+
+1.2. **Analizar la Autocorrelación**
+   - Función de autocorrelación (ACF)
+   - Función de autocorrelación parcial (PACF)
+   - Interpretación de correlogramas
