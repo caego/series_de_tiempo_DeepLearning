@@ -1,9 +1,27 @@
 # Series de Tiempo con Deep Learning
 Conceptos fundamentales hasta la implementación de modelos avanzados para el análisis y predicción de series temporales.
 
+## ¿Que aprenderás?
+- Fundamentos teóricos de series temporales y deep learning
+- Técnicas de exploración y visualización de datos temporales
+- Implementación práctica de modelos LSTM, GRU y Transformers
+- Evaluación y optimización de modelos temporales
+- Casos de uso reales en finanzas, meteorología y más
+
+
 ## Estructura del Curso
 
-Este repositorio contiene notebooks organizados en 6 sesiones:
+Este repositorio contiene notebooks organizados en 7 sesiones:
+
+### Sesión 0: Introducción
+Introduccion a las series de tiempo, requisitos del sistéma e instalación de librerías.
+📁 [Sesion_00_Introduccion](Sesion_00_Introduccion/)
+
+**Subtemas:**
+- 0.1. ¿Que son las series temporales?
+- 0.2. Deep Learning para series temporales
+- 0.3. Objetivos del curso
+- 0.4. Requisitos del sistema e instalación de librerías
 
 ### Sesión 1: Fundamentos de Series de Tiempo
 Conceptos fundamentales, componentes temporales, estacionariedad y análisis exploratorio.
@@ -65,3 +83,8 @@ CNN 1D, arquitecturas híbridas y modelos avanzados.
 Cada sesión contiene dos subcarpetas:
 - **clases/**: Notebooks con contenido teórico y ejemplos de clase
 - **desarrollo/**: Notebooks con ejercicios prácticos y proyectos de desarrollo
+
+## Recursos adicionales
+📁 [Recursos_adicionales](Recursos_adicionales/)
+
+
