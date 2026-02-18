@@ -1,0 +1,40 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+.env/
+ENV/
+
+# Distribucion / empaquetado
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Tests y coverage
+.tox/
+.nox/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Tipo / lint caches
+.mypy_cache/
+.pytype/
+.ruff_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Logs y sistemas
+*.log
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
